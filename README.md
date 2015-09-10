@@ -11,6 +11,7 @@ To get started from a terminal:
 ```
 $ git clone https://github.com/chadlung/vagrant-pywebhooks.git
 $ cd vagrant-pywebhooks
+$ vagrant box add dhoppe/ubuntu-14.04.2-amd64-nocm
 $ vagrant up
 ```
 
